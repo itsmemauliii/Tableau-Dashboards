@@ -1,4 +1,4 @@
-# The Data Picasso of Dashboards!** 🖌️📈  
+#  **The Data Picasso of Dashboards!** 🖌️📈  
 
 **Welcome, data adventurers!** 🚀 Buckle up, because you're about to enter a world where **numbers tell stories**, dashboards **solve mysteries**, and data **becomes art.** 🎭✨  
 

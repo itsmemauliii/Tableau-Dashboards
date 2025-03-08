@@ -48,3 +48,5 @@ I’m **Mauli Patel**, your friendly neighborhood **data wizard**, on a mission 
 👀 If you love **data, dashboards, and a sprinkle of humor,** hit that **FOLLOW** button! 🚀  
 
 **🔮 Turning raw data into magical insights, one dashboard at a time!** ✨📊
+
+**Made with ❤️**

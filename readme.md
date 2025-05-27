@@ -22,8 +22,8 @@ I’m **Mauli Patel**, your friendly neighborhood **data wizard**, on a mission 
 4️⃣ **[Online Payment Fraud Detection Dashboard 🔍](https://github.com/itsmemauliii/Tableau-Dashboards/blob/main/Online%20Payment%20Fraud%20Detection%20Dashboard.png)**  
    → Scammers, beware! This dashboard **catches fraudsters before they catch your wallet.** 🕵️‍♂️ 
 
-5️⃣ **[Superstore Sales Dashboard 🔍](https://github.com/itsmemauliii/Tableau-Dashboards/blob/main/Superstore%20Dashboard.png)**  
-   → This project aimed to analyze a Superstore's sales dataset to uncover valuable insights related to sales performance, customer behavior, product profitability, regional trends, and shipping preferences. The goal was to help the business identify what’s working, what’s not, and where strategic improvements could be made.** 📸
+5️⃣ **[Superstore Sales Dashboard👑](https://github.com/itsmemauliii/Tableau-Dashboards/blob/main/Superstore%20Sales%20Dashboard.png)**  
+   → This project aimed to analyze a Superstore's sales dataset to uncover valuable insights related to sales performance, customer behavior, product profitability, regional trends, and shipping preferences. The goal was to help the business identify what’s working, what’s not, and where strategic improvements could be made.📸
 
 ---
 
